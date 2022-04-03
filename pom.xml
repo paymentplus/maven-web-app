@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://http://54.163.191.148:8081/repository/paypalrelease/</url>
+	      <url>http:http://54.91.204.129:8081/repository/paypal_release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://http://54.163.191.148:8081/repository/paypalsnapshot///</url>
+	      <url>http://http:http://54.91.204.129:8081/repository/palpal_snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
