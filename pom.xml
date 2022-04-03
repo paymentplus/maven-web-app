@@ -103,7 +103,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://http:http://54.91.204.129:8081/repository/palpal_snapshot/</url>
+	      <url>http://http://54.91.204.129:8081/repository/palpal_snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
